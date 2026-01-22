@@ -12,6 +12,10 @@ Python use cases
 Interpreted vs compiled languages
 
 Writing first Python programs
+<img width="1376" height="787" alt="image" src="https://github.com/user-attachments/assets/74a54ac8-c0b5-4826-aec5-4aaab202c38b" />
+
+<img width="1335" height="774" alt="image" src="https://github.com/user-attachments/assets/49a08f68-1053-49ec-ac2b-d2e146d24bd5" />
+
 
 # Module 2: Python Data Types, Variables, Operators & Basic I/O
 
@@ -22,6 +26,10 @@ Variables and naming conventions
 Arithmetic, comparison, and logical operators
 
 Input and output operations
+<img width="1221" height="747" alt="image" src="https://github.com/user-attachments/assets/6856c5ed-3530-40d6-b4d5-7dddb3a9d775" />
+
+<img width="1288" height="672" alt="image" src="https://github.com/user-attachments/assets/cf868b71-331a-40ff-8ccd-fab45e444f18" />
+
 
 # Module 3: Boolean Values, Conditional Execution, Loops & Lists
 
